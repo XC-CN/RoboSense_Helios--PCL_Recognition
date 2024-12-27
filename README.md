@@ -10,3 +10,7 @@ lidar:
       lidar_type: RSHELIOS             #LiDAR type - RS16, RS32, RSBP, RSHELIOS, RSHELIOS_16P, RS128, RS80, RS48, RSP128, RSP80, RSP48, 
                                    #             RSM1, RSM1_JUMBO, RSM2, RSM3, RSE1, RSMX.
 ```
+
+## 部署Fastlio2
+Fastlio2 github：
+``git clone https://github.com/hku-mars/FAST_LIO.git``
