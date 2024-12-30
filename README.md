@@ -21,6 +21,7 @@ lidar:
 
 编译、source、运行
 ```
+cd ../..
 catkin_make
 source devel/setup.bash
 roslaunch rslidar_sdk start.launch
