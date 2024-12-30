@@ -1,6 +1,14 @@
 # RoboSense_Helios_Configuration
 
-SDK下载：https://cdn.robosense.cn/20220607191752_85539.rar
+新建工作空间，在src文件夹中：\
+``git clone https://github.com/RoboSense-LiDAR/rslidar_sdk.git``
+
+初始化并更新子模块
+```
+cd rslidar_sdk
+git submodule init
+git submodule update
+```
 
 ## 修改内容
 config文件夹中的config.yaml，雷达型号改为RSHELIOS，原来是RSM1
