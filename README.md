@@ -19,6 +19,13 @@ lidar:
                                    #             RSM1, RSM1_JUMBO, RSM2, RSM3, RSE1, RSMX.
 ```
 
+编译、source、运行
+```
+catkin_make
+source devel/setup.bash
+roslaunch rslidar_sdk start.launch
+```
+
 ## 部署Fastlio2
 Fastlio2 github：
 ``git clone https://github.com/hku-mars/FAST_LIO.git``
