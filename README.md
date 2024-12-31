@@ -1,4 +1,4 @@
-# 使用速腾helios和PCL进行点云特征提取
+# 使用速腾helios和fastlio2进行 SLAM建图
 
 ## SDK配置过程（依赖ROS）
 新建工作空间，在src文件夹中：\
@@ -27,4 +27,4 @@ source devel/setup.bash
 roslaunch rslidar_sdk start.launch
 ```
 ## driver配置过程（不依赖ROS）
-先根据rs_driver教程进行配置
+先根据rs_driver教程进行配置（已上传文件）
