@@ -30,5 +30,5 @@ roslaunch rslidar_sdk start.launch
 ![image](https://github.com/user-attachments/assets/e302a665-741b-4b35-9e1e-cece2ace6099)
 
 
-## driver配置过程（不依赖ROS）
-先根据rs_driver教程进行配置（已上传文件）
+## Fastlio配置过程
+参照文档：https://blog.csdn.net/qq_45792429/article/details/129335413
