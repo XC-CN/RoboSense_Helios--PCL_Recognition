@@ -26,5 +26,9 @@ catkin_make
 source devel/setup.bash
 roslaunch rslidar_sdk start.launch
 ```
+效果图：
+![image](https://github.com/user-attachments/assets/e302a665-741b-4b35-9e1e-cece2ace6099)
+
+
 ## driver配置过程（不依赖ROS）
 先根据rs_driver教程进行配置（已上传文件）
