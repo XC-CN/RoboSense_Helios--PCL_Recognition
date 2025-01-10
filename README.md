@@ -1,4 +1,4 @@
-# 使用速腾helios和fastlio2进行 SLAM建图
+# 使用速腾helioshe PCL进行光伏板的检测与识别
 
 ## SDK配置过程（依赖ROS）
 新建工作空间，在src文件夹中：\
@@ -30,5 +30,3 @@ roslaunch rslidar_sdk start.launch
 ![image](https://github.com/user-attachments/assets/e302a665-741b-4b35-9e1e-cece2ace6099)
 
 
-## Fastlio配置过程
-参照文档：https://blog.csdn.net/qq_45792429/article/details/129335413
